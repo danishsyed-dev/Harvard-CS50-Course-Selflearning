@@ -25,7 +25,7 @@ CS50 is Harvard University's introduction to the intellectual enterprises of com
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Harvard-CS50-Course-Selflearning.git
+   git clone https://github.com/danishsyed-dev/Harvard-CS50-Course-Selflearning.git
    cd Harvard-CS50-Course-Selflearning
    ```
 
@@ -51,8 +51,8 @@ CS50 is Harvard University's introduction to the intellectual enterprises of com
 
 ## Progress
 
-- [ ] Week 0 - Scratch
-- [ ] Week 1 - C
+- [✔️] Week 0 - Scratch
+- [⏳] Week 1 - C
 - [ ] Week 2 - Arrays
 - [ ] Week 3 - Algorithms
 - [ ] Week 4 - Memory
