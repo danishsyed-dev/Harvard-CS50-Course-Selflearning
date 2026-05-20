@@ -9,10 +9,23 @@ CS50 is Harvard University's introduction to the intellectual enterprises of com
 ## Repository Structure
 
 ```
-├── Example-1.py      # AI API integration example (Mistral via NVIDIA NIM)
-├── .env              # Environment variables (API keys - not tracked in git)
-├── .gitignore        # Git ignore file
-└── README.md         # This file
+├── WEEK-0/
+│   └── Example-1.py          # AI API integration example (Mistral via NVIDIA NIM)
+├── WEEK-1/
+│   ├── Hello-0.c             # Basic "Hello, World" program
+│   ├── Hello-1.c             # Hello with user input
+│   ├── Conditionals-0.c      # Intro to conditionals
+│   ├── Conditionals-1.c      # More conditional logic
+│   ├── Conditional-2.c       # Advanced conditionals
+│   ├── agree.c               # Char comparison exercise
+│   ├── compare.c             # Integer comparison exercise
+│   └── meow.c                # Loops & functions exercise
+├── assets/
+│   └── cs50_logo.png         # CS50 logo image
+├── scripts/                  # Utility scripts
+├── .env                      # Environment variables
+├── .gitignore                # Git ignore file
+└── README.md                 # This file
 ```
 
 ## Setup
