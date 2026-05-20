@@ -81,10 +81,12 @@ This project is for educational purposes as part of my CS50 learning journey.
 
 **Made with ❤️ by [danishsyed-dev](https://github.com/danishsyed-dev)**
 
-</div>
+
 
 
 
 ![CS50 Logo](assets/cs50_logo.png)
 
 **Note:** This is a static image. For dynamic display, you can use a service like GitHub's built-in image handling by uploading `cs50_logo.png` to your repository.
+
+</div>
